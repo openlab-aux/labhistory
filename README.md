@@ -5,8 +5,8 @@ Hier werden die epischen Storyarks und Geschehnisse des Labs festgehalten.
 ## Datenformat
 
 * Ein Ordner stellt ein Ereignis da
-* Jedes Ereignis hat zwei Dateien, `info` und `history`
-* Unterordner stellen Unterereignisse da und sind selbst Ereignisse
+* Jedes Ereignis hat zwei Dateien, `info` und optional `history.md`
+* Unterordner stellen Unterereignisse da
 
 ### info
 
@@ -23,6 +23,6 @@ Felder:
     to: Enddatum
     …: weitere sind möglich
 
-### history
+### history.md
 
 Markdown-Datei, in der das Ereignis dokumentiert wird.
