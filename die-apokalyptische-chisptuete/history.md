@@ -18,7 +18,7 @@ allerdings konnte die Vernunft die Mitglieder doch retten und das Missverständn
 
 > Dieses Thema ist noch nicht beendet. Bei der eben geschehenen Beilegung der Angelegenheit handelt es sich um ein Missverstaendnis.
 
-Schließlich packte der verurteilenswerte Aktionismus letztendlich einen der Beteiligten und im Zuge der Erstellung der Spinnennetzseite [Liegt die Chipstuete noch auf dem schwarzen Tisch?](http://liegt-die-chipstuete-noch-auf-dem-schwarzen-tisch.tk/) wurde die Chipstüte entfernt. Obwohl dies Empörung hervorrief ("WER HAT DIE CHIPSTUETE WEGGERAEUMT?! KOENNTEN WIR DAS BITTE ERSTMAL AUSDISKUTIEREN") und sich Problematiken auftaten, doch deren Lösungen waren nur einige Sätze entfernt.
+Schließlich packte der verurteilenswerte Aktionismus letztendlich einen der Beteiligten und im Zuge der Erstellung der Spinnennetzseite [Liegt die Chipstuete noch auf dem schwarzen Tisch?](http://liegt-die-chipstuete-noch-auf-dem-schwarzen-tisch.tk/) wurde die Chipstüte entfernt. Zwar rief dies Empörung hervor ("WER HAT DIE CHIPSTUETE WEGGERAEUMT?! KOENNTEN WIR DAS BITTE ERSTMAL AUSDISKUTIEREN") und zudem taten sich neue Problematiken, doch deren Lösungen waren nur einige Sätze entfernt.
 
 > um die zur Entfernung von zukuenftigen Chipstueten notwendigen Prozesse besser analysieren und optimieren zu koennen, wuerde ich sie bitten unsere gegenwaertige Modellchipstuete mit einem GPS-tracker auszustatten und Daten darueber zu erheben wie lange sich die Chipstuete wo aufhaelt. Publizieren sie die anfallenden Daten bitte auf ihrer soeben fuer den Fall angelegten single-purpose-website. Stellen sie bitte ein JSON-API zur verfuegung.
 
